@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/YashPandey7/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/YashPandey7/LeetCode/tree/master/0022-generate-parentheses) |
 ## Dynamic Programming
 |  |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/YashPandey7/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/YashPandey7/LeetCode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/YashPandey7/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/YashPandey7/LeetCode/tree/master/0040-combination-sum-ii) |
@@ -50,4 +52,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/YashPandey7/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/YashPandey7/LeetCode/tree/master/0342-power-of-four) |
 | [2050-count-good-numbers](https://github.com/YashPandey7/LeetCode/tree/master/2050-count-good-numbers) |
+## Hash Table
+|  |
+| ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/YashPandey7/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 <!---LeetCode Topics End-->
