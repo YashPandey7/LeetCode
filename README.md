@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/YashPandey7/LeetCode/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/YashPandey7/LeetCode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/YashPandey7/LeetCode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/YashPandey7/LeetCode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/YashPandey7/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/YashPandey7/LeetCode/tree/master/0342-power-of-four) |
 | [2050-count-good-numbers](https://github.com/YashPandey7/LeetCode/tree/master/2050-count-good-numbers) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/YashPandey7/LeetCode/tree/master/0090-subsets-ii) |
 | [0189-rotate-array](https://github.com/YashPandey7/LeetCode/tree/master/0189-rotate-array) |
 | [0216-combination-sum-iii](https://github.com/YashPandey7/LeetCode/tree/master/0216-combination-sum-iii) |
+| [0268-missing-number](https://github.com/YashPandey7/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/YashPandey7/LeetCode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/YashPandey7/LeetCode/tree/master/0485-max-consecutive-ones) |
 ## Bit Manipulation
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/YashPandey7/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/YashPandey7/LeetCode/tree/master/0090-subsets-ii) |
 | [0231-power-of-two](https://github.com/YashPandey7/LeetCode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/YashPandey7/LeetCode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/YashPandey7/LeetCode/tree/master/0342-power-of-four) |
 ## Recursion
 |  |
@@ -69,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/YashPandey7/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0268-missing-number](https://github.com/YashPandey7/LeetCode/tree/master/0268-missing-number) |
 ## Matrix
 |  |
 | ------- |
@@ -79,4 +83,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/YashPandey7/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/YashPandey7/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/YashPandey7/LeetCode/tree/master/0283-move-zeroes) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/YashPandey7/LeetCode/tree/master/0268-missing-number) |
+## Sorting
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/YashPandey7/LeetCode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
