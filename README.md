@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/YashPandey7/LeetCode/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/YashPandey7/LeetCode/tree/master/0050-powx-n) |
+| [0189-rotate-array](https://github.com/YashPandey7/LeetCode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/YashPandey7/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/YashPandey7/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/YashPandey7/LeetCode/tree/master/0342-power-of-four) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/YashPandey7/LeetCode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/YashPandey7/LeetCode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/YashPandey7/LeetCode/tree/master/0090-subsets-ii) |
+| [0189-rotate-array](https://github.com/YashPandey7/LeetCode/tree/master/0189-rotate-array) |
 | [0216-combination-sum-iii](https://github.com/YashPandey7/LeetCode/tree/master/0216-combination-sum-iii) |
 | [0485-max-consecutive-ones](https://github.com/YashPandey7/LeetCode/tree/master/0485-max-consecutive-ones) |
 ## Bit Manipulation
@@ -74,4 +76,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/YashPandey7/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0189-rotate-array](https://github.com/YashPandey7/LeetCode/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
