@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/YashPandey7/LeetCode/tree/master/0022-generate-parentheses) |
+| [0053-maximum-subarray](https://github.com/YashPandey7/LeetCode/tree/master/0053-maximum-subarray) |
 | [0131-palindrome-partitioning](https://github.com/YashPandey7/LeetCode/tree/master/0131-palindrome-partitioning) |
 ## Backtracking
 |  |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/YashPandey7/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0039-combination-sum](https://github.com/YashPandey7/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/YashPandey7/LeetCode/tree/master/0040-combination-sum-ii) |
+| [0053-maximum-subarray](https://github.com/YashPandey7/LeetCode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/YashPandey7/LeetCode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/YashPandey7/LeetCode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/YashPandey7/LeetCode/tree/master/0079-word-search) |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/YashPandey7/LeetCode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/YashPandey7/LeetCode/tree/master/0169-majority-element) |
 ## Counting
 |  |
