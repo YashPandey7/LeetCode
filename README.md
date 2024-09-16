@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/YashPandey7/LeetCode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/YashPandey7/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/YashPandey7/LeetCode/tree/master/0342-power-of-four) |
+| [0539-minimum-time-difference](https://github.com/YashPandey7/LeetCode/tree/master/0539-minimum-time-difference) |
 | [2050-count-good-numbers](https://github.com/YashPandey7/LeetCode/tree/master/2050-count-good-numbers) |
 ## String
 |  |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/YashPandey7/LeetCode/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/YashPandey7/LeetCode/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/YashPandey7/LeetCode/tree/master/0131-palindrome-partitioning) |
+| [0539-minimum-time-difference](https://github.com/YashPandey7/LeetCode/tree/master/0539-minimum-time-difference) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/YashPandey7/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/YashPandey7/LeetCode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/YashPandey7/LeetCode/tree/master/0485-max-consecutive-ones) |
+| [0539-minimum-time-difference](https://github.com/YashPandey7/LeetCode/tree/master/0539-minimum-time-difference) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/YashPandey7/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Bit Manipulation
 |  |
@@ -105,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/YashPandey7/LeetCode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/YashPandey7/LeetCode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/YashPandey7/LeetCode/tree/master/0268-missing-number) |
+| [0539-minimum-time-difference](https://github.com/YashPandey7/LeetCode/tree/master/0539-minimum-time-difference) |
 ## Divide and Conquer
 |  |
 | ------- |
