@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/YashPandey7/LeetCode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/YashPandey7/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0031-next-permutation](https://github.com/YashPandey7/LeetCode/tree/master/0031-next-permutation) |
 | [0039-combination-sum](https://github.com/YashPandey7/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/YashPandey7/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/YashPandey7/LeetCode/tree/master/0046-permutations) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/YashPandey7/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0031-next-permutation](https://github.com/YashPandey7/LeetCode/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/YashPandey7/LeetCode/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/YashPandey7/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/YashPandey7/LeetCode/tree/master/0283-move-zeroes) |
