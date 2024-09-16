@@ -2,16 +2,11 @@ class Solution {
 public:
     int findMinDifference(vector<string>& timePoints) {
         vector<int> v;
-        for(auto x : timePoints){
-            int col = x.find(":");
-            string hours = x.substr(0, col);
-            string minutes = x.substr(col+1);
-
-            int hrs = stoi(hours);
-            int mins = stoi(minutes);
-            int res = (hrs*60 + mins);
-            // res = min(res, 1440-res);
-            v.push_back(res);
+        for(auto time : timePoints){
+            int colonPos = time.find(":");
+            int hrs = stoi(time.substr(0, colonPos));
+            int mins = stoi(time.substr(colonPos + 1));
+            v.push_back(hrs * 60 + mins);
         }
         sort(v.begin(), v.end());
         int res = INT_MAX;
