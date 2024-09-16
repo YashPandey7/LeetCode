@@ -2,12 +2,16 @@ class Solution {
 public:
     void permutation(int ind, vector<int> & nums, vector<vector<int>>& ans){
         if(ind == nums.size()){
-            if(find(ans.begin(), ans.end(),nums) == ans.end()){
-                ans.push_back(nums);
-            }
+            ans.push_back(nums);
             return;
         }
+        unordered_set<int> swapped;
         for(int i = ind; i<nums.size(); i++){
+            if (swapped.find(nums[i]) != swapped.end()) {
+                continue; 
+            }
+            swapped.insert(nums[i]);
+            
             swap(nums[i], nums[ind]);
             permutation(ind + 1, nums, ans);
             swap(nums[i], nums[ind]);
