@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/YashPandey7/LeetCode/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/YashPandey7/LeetCode/tree/master/0053-maximum-subarray) |
+| [0118-pascals-triangle](https://github.com/YashPandey7/LeetCode/tree/master/0118-pascals-triangle) |
 | [0131-palindrome-partitioning](https://github.com/YashPandey7/LeetCode/tree/master/0131-palindrome-partitioning) |
 ## Backtracking
 |  |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/YashPandey7/LeetCode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/YashPandey7/LeetCode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/YashPandey7/LeetCode/tree/master/0090-subsets-ii) |
+| [0118-pascals-triangle](https://github.com/YashPandey7/LeetCode/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/YashPandey7/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/YashPandey7/LeetCode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/YashPandey7/LeetCode/tree/master/0169-majority-element) |
