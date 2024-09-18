@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/YashPandey7/LeetCode/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/YashPandey7/LeetCode/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/YashPandey7/LeetCode/tree/master/0131-palindrome-partitioning) |
+| [0179-largest-number](https://github.com/YashPandey7/LeetCode/tree/master/0179-largest-number) |
 | [0539-minimum-time-difference](https://github.com/YashPandey7/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/YashPandey7/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 ## Dynamic Programming
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/YashPandey7/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/YashPandey7/LeetCode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/YashPandey7/LeetCode/tree/master/0169-majority-element) |
+| [0179-largest-number](https://github.com/YashPandey7/LeetCode/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/YashPandey7/LeetCode/tree/master/0189-rotate-array) |
 | [0216-combination-sum-iii](https://github.com/YashPandey7/LeetCode/tree/master/0216-combination-sum-iii) |
 | [0229-majority-element-ii](https://github.com/YashPandey7/LeetCode/tree/master/0229-majority-element-ii) |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/YashPandey7/LeetCode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/YashPandey7/LeetCode/tree/master/0169-majority-element) |
+| [0179-largest-number](https://github.com/YashPandey7/LeetCode/tree/master/0179-largest-number) |
 | [0229-majority-element-ii](https://github.com/YashPandey7/LeetCode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/YashPandey7/LeetCode/tree/master/0268-missing-number) |
 | [0539-minimum-time-difference](https://github.com/YashPandey7/LeetCode/tree/master/0539-minimum-time-difference) |
@@ -149,4 +152,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/YashPandey7/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+## Greedy
+|  |
+| ------- |
+| [0179-largest-number](https://github.com/YashPandey7/LeetCode/tree/master/0179-largest-number) |
 <!---LeetCode Topics End-->
