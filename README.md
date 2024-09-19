@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/YashPandey7/LeetCode/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/YashPandey7/LeetCode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/YashPandey7/LeetCode/tree/master/0231-power-of-two) |
+| [0241-different-ways-to-add-parentheses](https://github.com/YashPandey7/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0268-missing-number](https://github.com/YashPandey7/LeetCode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/YashPandey7/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/YashPandey7/LeetCode/tree/master/0342-power-of-four) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/YashPandey7/LeetCode/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/YashPandey7/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0179-largest-number](https://github.com/YashPandey7/LeetCode/tree/master/0179-largest-number) |
+| [0241-different-ways-to-add-parentheses](https://github.com/YashPandey7/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0539-minimum-time-difference](https://github.com/YashPandey7/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/YashPandey7/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 ## Dynamic Programming
@@ -33,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/YashPandey7/LeetCode/tree/master/0118-pascals-triangle) |
 | [0131-palindrome-partitioning](https://github.com/YashPandey7/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/YashPandey7/LeetCode/tree/master/0152-maximum-product-subarray) |
+| [0241-different-ways-to-add-parentheses](https://github.com/YashPandey7/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 ## Backtracking
 |  |
 | ------- |
@@ -91,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/YashPandey7/LeetCode/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/YashPandey7/LeetCode/tree/master/0231-power-of-two) |
+| [0241-different-ways-to-add-parentheses](https://github.com/YashPandey7/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0326-power-of-three](https://github.com/YashPandey7/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/YashPandey7/LeetCode/tree/master/0342-power-of-four) |
 | [2050-count-good-numbers](https://github.com/YashPandey7/LeetCode/tree/master/2050-count-good-numbers) |
@@ -158,4 +162,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/YashPandey7/LeetCode/tree/master/0179-largest-number) |
+## Memoization
+|  |
+| ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/YashPandey7/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 <!---LeetCode Topics End-->
