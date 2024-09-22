@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/YashPandey7/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0560-subarray-sum-equals-k](https://github.com/YashPandey7/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/YashPandey7/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/YashPandey7/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -122,10 +123,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/YashPandey7/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/YashPandey7/LeetCode/tree/master/0283-move-zeroes) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/YashPandey7/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/YashPandey7/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Binary Search
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/YashPandey7/LeetCode/tree/master/0268-missing-number) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/YashPandey7/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Sorting
 |  |
 | ------- |
@@ -135,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/YashPandey7/LeetCode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/YashPandey7/LeetCode/tree/master/0268-missing-number) |
 | [0539-minimum-time-difference](https://github.com/YashPandey7/LeetCode/tree/master/0539-minimum-time-difference) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/YashPandey7/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Divide and Conquer
 |  |
 | ------- |
