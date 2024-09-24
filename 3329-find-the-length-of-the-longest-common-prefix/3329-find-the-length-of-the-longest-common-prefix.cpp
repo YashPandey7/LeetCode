@@ -18,6 +18,10 @@ public:
                 arr2[i] = arr2[i]/10;
             }
         }
+        
+        if(res == 0){
+            return 0;
+        }
 
         int cnt = 0;
         while(res != 0){
