@@ -1,7 +1,7 @@
 class Solution {
 public:
     int longestCommonPrefix(vector<int>& arr1, vector<int>& arr2) {
-        multiset<int> s;
+        unordered_set<int> s;
 
         for(int i=0; i<arr1.size(); i++){
             while(arr1[i] != 0){
