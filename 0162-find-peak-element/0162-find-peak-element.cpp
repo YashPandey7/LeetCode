@@ -9,7 +9,7 @@ public:
         while(l <= h){
             int mid = l + (h-l)/2;
             if(mid == 0){
-                if(nums[mid+1] < nums[mid]){
+                if(mid+1 <= h && nums[mid+1] < nums[mid]){
                     return mid;
                 }else{
                     l = mid + 1;
@@ -17,7 +17,7 @@ public:
                 }
             }
             else if(mid == n-1){
-                if(nums[mid-1] < nums[mid]){
+                if(mid - 1>= 0 && nums[mid-1] < nums[mid]){
                     return mid;
                 }else{
                     h = mid - 1;
@@ -28,7 +28,6 @@ public:
             if(nums[mid] > nums[mid-1] && nums[mid + 1] < nums[mid]){
                 return mid;
             }
-            
             else if(nums[mid] < nums[mid+1] && nums[mid-1]>nums[mid]){
                 if(nums[mid-1] > nums[mid+1]){
                     h = mid-1;
