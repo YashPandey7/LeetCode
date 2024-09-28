@@ -1,9 +1,9 @@
 class Solution {
 public:
     int smallestDivisor(vector<int>& nums, int threshold) {
-        sort(nums.begin(), nums.end());
+        // sort(nums.begin(), nums.end());
         int n = nums.size();
-        int l = 1, h = nums[n-1];
+        int l = 1, h = h = *max_element(nums.begin(), nums.end());
         int mid = l + (h-l)/2;
         while(l<=h){
             mid = l + (h-l)/2;
