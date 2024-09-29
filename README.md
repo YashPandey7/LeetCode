@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/YashPandey7/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0540-single-element-in-a-sorted-array](https://github.com/YashPandey7/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/YashPandey7/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0859-design-circular-deque](https://github.com/YashPandey7/LeetCode/tree/master/0859-design-circular-deque) |
 | [0907-koko-eating-bananas](https://github.com/YashPandey7/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/YashPandey7/LeetCode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/YashPandey7/LeetCode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
@@ -205,4 +206,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/YashPandey7/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+## Linked List
+|  |
+| ------- |
+| [0859-design-circular-deque](https://github.com/YashPandey7/LeetCode/tree/master/0859-design-circular-deque) |
+## Design
+|  |
+| ------- |
+| [0859-design-circular-deque](https://github.com/YashPandey7/LeetCode/tree/master/0859-design-circular-deque) |
+## Queue
+|  |
+| ------- |
+| [0859-design-circular-deque](https://github.com/YashPandey7/LeetCode/tree/master/0859-design-circular-deque) |
 <!---LeetCode Topics End-->
