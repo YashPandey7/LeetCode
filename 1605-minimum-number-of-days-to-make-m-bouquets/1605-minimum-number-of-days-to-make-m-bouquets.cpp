@@ -2,7 +2,8 @@ class Solution {
 public:
     int minDays(vector<int>& bloomDay, int m, int k) {
         int n = bloomDay.size();
-        if(m*k > n){
+        long long multi = (long long)m*k;
+        if(multi > n){
             return -1;
         }
         int l = *min_element(bloomDay.begin(), bloomDay.end());
