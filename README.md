@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0859-design-circular-deque](https://github.com/YashPandey7/LeetCode/tree/master/0859-design-circular-deque) |
 | [0907-koko-eating-bananas](https://github.com/YashPandey7/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/YashPandey7/LeetCode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1256-rank-transform-of-an-array](https://github.com/YashPandey7/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/YashPandey7/LeetCode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/YashPandey7/LeetCode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/YashPandey7/LeetCode/tree/master/1646-kth-missing-positive-number) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/YashPandey7/LeetCode/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/YashPandey7/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/YashPandey7/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1256-rank-transform-of-an-array](https://github.com/YashPandey7/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/YashPandey7/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Matrix
 |  |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/YashPandey7/LeetCode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/YashPandey7/LeetCode/tree/master/0268-missing-number) |
 | [0539-minimum-time-difference](https://github.com/YashPandey7/LeetCode/tree/master/0539-minimum-time-difference) |
+| [1256-rank-transform-of-an-array](https://github.com/YashPandey7/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/YashPandey7/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Divide and Conquer
 |  |
