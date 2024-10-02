@@ -1,6 +1,8 @@
 class Solution {
 public:
     vector<int> arrayRankTransform(vector<int>& arr) {
+        if(arr.empty()) return arr;
+        
         set<int> s(arr.begin(), arr.end());
         unordered_map<int, int>mp;
         int rank = 1;
