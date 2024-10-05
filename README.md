@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/YashPandey7/LeetCode/tree/master/0179-largest-number) |
 | [0241-different-ways-to-add-parentheses](https://github.com/YashPandey7/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0539-minimum-time-difference](https://github.com/YashPandey7/LeetCode/tree/master/0539-minimum-time-difference) |
+| [0567-permutation-in-string](https://github.com/YashPandey7/LeetCode/tree/master/0567-permutation-in-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/YashPandey7/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/YashPandey7/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Dynamic Programming
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/YashPandey7/LeetCode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/YashPandey7/LeetCode/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/YashPandey7/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/YashPandey7/LeetCode/tree/master/0567-permutation-in-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/YashPandey7/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1256-rank-transform-of-an-array](https://github.com/YashPandey7/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/YashPandey7/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/YashPandey7/LeetCode/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/YashPandey7/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/YashPandey7/LeetCode/tree/master/0283-move-zeroes) |
+| [0567-permutation-in-string](https://github.com/YashPandey7/LeetCode/tree/master/0567-permutation-in-string) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/YashPandey7/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/YashPandey7/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/YashPandey7/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -241,4 +244,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0859-design-circular-deque](https://github.com/YashPandey7/LeetCode/tree/master/0859-design-circular-deque) |
+## Sliding Window
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/YashPandey7/LeetCode/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
